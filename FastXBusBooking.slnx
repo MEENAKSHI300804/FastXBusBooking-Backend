@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="FastXBusBooking.API/FastXBusBooking.API.csproj" />
+  <Project Path="FastXBusBooking.DTOs/FastXBusBooking.DTOs.csproj" />
+  <Project Path="FastXBusBooking.Models/FastXBusBooking.Models.csproj" />
+  <Project Path="FastXBusBooking.Repository/FastXBusBooking.Repository.csproj" />
+  <Project Path="FastXBusBooking.Services/FastXBusBooking.Services.csproj" />
+  <Project Path="FastXBusBooking.Tests/FastXBusBooking.Tests.csproj" />
+</Solution>
