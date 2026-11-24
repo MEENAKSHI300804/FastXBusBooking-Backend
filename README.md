@@ -198,3 +198,10 @@ dotnet build
 
 dotnet run --project .\\FastXBusBooking.API\\
 
+
+
+## 🎥 FastX Project Demo
+
+The video below demonstrates the FastX Bus Booking application.
+
+[**View / Download FastX Bus Booking Demo (MP4)**](Demo-Video/FastX%20Bus%20Booking.mp4)
