@@ -198,7 +198,7 @@ dotnet build
 
 dotnet run --project .\\FastXBusBooking.API\\
 
-
+```
 
 ## 🎥 FastX Project Demo
 
